@@ -14,3 +14,6 @@ https://katsugachi.github.io/Sheepy---A-Short-Adventure/
 - This port is as close to “source-accurate” as possible without the original `.c3p` project.
 ## Details
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Katsugachi/Sheepy---A-Short-Adventure)
+![GitHub License](https://img.shields.io/github/license/Katsugachi/Sheepy---A-Short-Adventure)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/Katsugachi/Sheepy---A-Short-Adventure)
+![GitHub Stars](https://img.shields.io/github/stars/Katsugachi/Sheepy---A-Short-Adventure?style=social) (sad)
