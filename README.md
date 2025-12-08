@@ -6,7 +6,7 @@ If you enjoy this web version, please support the developer by playing or review
 [Sheepy On Steam](https://store.steampowered.com/app/1568400/Sheepy_A_Short_Adventure/)
 ## Hosted Here Live
 https://katsugachi.github.io/Sheepy---A-Short-Adventure <br><br>
-[![Launch](https://img.shields.io/badge/Launch-Sheepy:%20A%20Short%20Adventure%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Sheepy---A-Short-Adventure/)
+[![Launch](https://img.shields.io/badge/Launch-Sheepy:%20A%20Short%20Adventure%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Sheepy---A-Short-Adventure/)
 
 ## About the Port
 
