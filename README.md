@@ -6,3 +6,9 @@ If you enjoy this web version, please support the developer by playing or review
 [Sheepy On Steam](https://store.steampowered.com/app/1568400/Sheepy_A_Short_Adventure/)
 # Hosted Here Live
 https://katsugachi.github.io/Sheepy---A-Short-Adventure/
+## About the Port
+
+- Sheepy was developed using **Construct**, which exports its games as HTML/CSS/JS.  
+- The official Windows release bundles these files inside an NW.js container.  
+- By extracting the `package.nw` file, the game runs natively in the browser with no need for NW.js.  
+- This port is as close to “source-accurate” as possible without the original `.c3p` project.
