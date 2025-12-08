@@ -9,7 +9,7 @@ https://katsugachi.github.io/Sheepy---A-Short-Adventure <br><br>
 [![Launch](https://img.shields.io/badge/Launch-Sheepy:%20A%20Short%20Adventure%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Sheepy---A-Short-Adventure/)
 
 ## About the Port
-
+- Is currently 100% up to date with the game
 - Sheepy was developed using **Construct**, which exports its games as HTML/CSS/JS.  
 - The official Windows release bundles these files inside an NW.js container.  
 - By extracting the `package.nw` file, the game runs natively in the browser with no need for NW.js.  
