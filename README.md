@@ -12,3 +12,5 @@ https://katsugachi.github.io/Sheepy---A-Short-Adventure/
 - The official Windows release bundles these files inside an NW.js container.  
 - By extracting the `package.nw` file, the game runs natively in the browser with no need for NW.js.  
 - This port is as close to “source-accurate” as possible without the original `.c3p` project.
+## Details
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Katsugachi/Sheepy---A-Short-Adventure)
