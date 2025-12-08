@@ -5,8 +5,8 @@ This IS unofficial and all credit is to [Mr Suicide Sheep](https://store.steampo
 If you enjoy this web version, please support the developer by playing or reviewing the official release on Steam <br>
 [Sheepy On Steam](https://store.steampowered.com/app/1568400/Sheepy_A_Short_Adventure/)
 ## Hosted Here Live
-https://katsugachi.github.io/Sheepy---A-Short-Adventure <br>
-[![Play Online](https://img.shields.io/badge/Launch-Sheepy:%20A%20Short%20Adventure%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Sheepy---A-Short-Adventure/)
+https://katsugachi.github.io/Sheepy---A-Short-Adventure <br><br>
+[![Launch](https://img.shields.io/badge/Launch-Sheepy:%20A%20Short%20Adventure%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Sheepy---A-Short-Adventure/)
 
 ## About the Port
 
