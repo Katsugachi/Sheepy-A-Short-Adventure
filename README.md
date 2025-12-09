@@ -20,3 +20,5 @@ https://katsugachi.github.io/Sheepy-A-Short-Adventure/ <br><br>
 ![GitHub License](https://img.shields.io/github/license/Katsugachi/Sheepy---A-Short-Adventure) <br>
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/Katsugachi/Sheepy---A-Short-Adventure) <br>
 ![GitHub Stars](https://img.shields.io/github/stars/Katsugachi/Sheepy---A-Short-Adventure?style=social) (sad)
+<br><br>
+If you read this far down, thanks! If you like this project give it a star, it wasn't easy!
